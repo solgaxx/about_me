@@ -7,6 +7,7 @@ I am an Information Systems major at the University of Delaware.
 I already learned most of the basics of Python, Racket, and Html.
 
 ⚡ Fun facts:
+
 I am French and also a bit German.
 
 I like coding games.
