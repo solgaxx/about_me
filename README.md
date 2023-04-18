@@ -14,4 +14,4 @@ I like coding games.
 For instance, I coded a snake game that I called "Jake the Snake".
 
 During Summer 2022, I will attend a Summer School in Paris to do some coding applicated to games.
-This training course or coding experience that will last 10 days is organized by ISART Digital.
+This training course or coding experience that will last 14 days is organized by ISART Digital.
