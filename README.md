@@ -8,6 +8,5 @@ I already learned most of the basics of Python, Java, C, and C++.
 
 ⚡ Fun facts:
   I am 3/4 French and 1/4 German.
-  I like to code games as a hobby.
   I like rock climbing.
   I like to spend time with my pets (husky & fish).
