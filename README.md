@@ -1,4 +1,4 @@
-👋 Hi, I am Solenn.
+👋 Hi, I am Solenn Gacon.
 
 👀 I am interested in Computer Science.
 I am an Information Systems major at the University of Delaware.
