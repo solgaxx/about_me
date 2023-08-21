@@ -1,5 +1,7 @@
 👋 Hi, I am Solenn Gacon.
 
+📧 You can contact me at: solgacon@udel.edu
+
 👀 I am interested in Computer Science.
 I am an Information Systems major at the University of Delaware.
 
