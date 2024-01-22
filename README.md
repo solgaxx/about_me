@@ -2,13 +2,13 @@
 
 📧 You can contact me at: solgacon@udel.edu
 
-👀 I am interested in Computer Science.
+👀 I passionate about Computer Science.
 I am an Information Systems major at the University of Delaware.
 
-🌱 I am currently learning SQL.
-I already learned most of the basics of Python, Java, C, and C++.
+🌱 During the next semester, I will be learning cybersecurity.
+Through my coursework in computer networks, software engineering, machine learning and database systems, I have learned programming languages i.e. Python, Java, C++, SQL.
 
 ⚡ Fun facts:
   I am 3/4 French and 1/4 German.
-  I like rock climbing.
-  I like to spend time with my pets (husky & fish).
+  I love rock climbing.
+  I love to spend time with my pet husky.
